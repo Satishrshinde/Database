@@ -242,7 +242,7 @@
     }
   ],
   "todo": [],
-  "vegetables": [
+  "grocery": [
     {
       "name": "garlic",
       "image": "https://firebasestorage.googleapis.com/v0/b/agricart-c7914.appspot.com/o/products%2FGarlic-min.jpeg?alt=media&token=124c7677-7db5-4b7c-b110-f42eb3c777f0",
