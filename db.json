@@ -315,5 +315,34 @@
       "price": 100,
       "discountPercentage": 10
     }
+  ],
+  "users": [
+    {
+      "id": 100,
+      "cart": [],
+      "name": "Satis Shinde",
+      "email": "satishrshinde2014@gmail.com",
+      "mobile": 9518516315
+    },
+    {
+      "id": 92,
+      "cart": [],
+      "name": "vishal Shinde",
+      "email": "vsvshinde15@gmail.com",
+      "mobile": 9518516315
+    },
+    {
+      "id": 93,
+      "cart": [
+        {
+          "name": "Tomato",
+          "image": "https://firebasestorage.googleapis.com/v0/b/agricart-c7914.appspot.com/o/products%2Ftomatoes-min.jpg?alt=media&token=41b9c3fa-ab2d-4d33-ad98-821fb5fb1117",
+          "weight": 1,
+          "type": "fruit",
+          "price": 30,
+          "discountPercentage": 10
+        }
+      ]
+    }
   ]
 }
